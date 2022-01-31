@@ -1,0 +1,1 @@
+export {UserProfilePageConnector} from './user-profile-page-connector'

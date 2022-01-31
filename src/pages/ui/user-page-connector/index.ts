@@ -1,0 +1,1 @@
+export {UserPageConnector} from './user-page-connector'
